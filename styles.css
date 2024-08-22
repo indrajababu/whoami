@@ -92,7 +92,7 @@ p1{
 #result {
     /*margin-top: 20px;*/
     padding: 10px;
-    background-color: #ffb997;
+    background-color: #98afdb;
     /*border: 2px solid #ddd;
     border-radius: 5px;*/
     display: none;
@@ -199,7 +199,7 @@ question-image {
 
 .restart-button {
     font-family: 'Comfortaa', sans-serif;
-    background-color: #ffb997;
+    background-color: #98afdb;
     border: none;
     color: rgb(0, 0, 0);
     padding: 15px 32px;
@@ -211,7 +211,7 @@ question-image {
 }
 
 .restart-button:hover {
-    background-color: #ffb997; 
+    background-color: #98afdb; 
     color: rgb(132, 107, 107);
 }
 
