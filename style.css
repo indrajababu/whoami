@@ -1,5 +1,5 @@
 body {
-    font-family: 'Zain', sans-serif;
+    font-family: 'Jersey 10', sans-serif;
     background-color: #98afdb;
     font-size: 20px;
     margin: 0;
@@ -12,7 +12,7 @@ body {
 }
 
 .dark {
-    font-family: 'Zain', sans-serif;
+    font-family: 'Jersey 10', sans-serif;
     background-color: #843b62;
     font-size: 20px;
     margin: 0;
@@ -25,7 +25,7 @@ body {
 }
 
 .quiz-container {
-    font-family: 'Zain', sans-serif;
+    font-family: 'Jersey 10', sans-serif;
     text-align: center;
     font-size: 20px;
     background-color: #98afdb;
@@ -39,7 +39,7 @@ body {
 }
 
 .dark-container {
-    font-family: 'Zain', sans-serif;
+    font-family: 'Jersey 10', sans-serif;
     text-align: center;
     font-size: 20px;
     background-color: #843b62;
@@ -54,7 +54,7 @@ body {
 
 
 h1 {
-    font-family: 'Zain', sans-serif;
+    font-family: 'Jersey 10', sans-serif;
     font-size: 28px;
     font-weight: bold; 
 
@@ -176,7 +176,7 @@ question-image {
 
 
 .start-button {
-    font-family: 'Zain', sans-serif;
+    font-family: 'Jersey 10', sans-serif;
     background-color: #843b62; 
     border: none;
     color: #ffffff;
@@ -198,7 +198,7 @@ question-image {
 
 
 .restart-button {
-    font-family: 'Zain', sans-serif;
+    font-family: 'Jersey 10', sans-serif;
     background-color: #98afdb;
     border: none;
     color: rgb(0, 0, 0);
@@ -223,7 +223,7 @@ question-image {
 }
 
 .do-not-press-button {
-    font-family: 'Zain', sans-serif;
+    font-family: 'Jersey 10', sans-serif;
     background-color: #f46b6b; /* Red */
     color: #fff;
     padding: 20px; /* Adjust padding */
